@@ -1,4 +1,4 @@
-## Back-End Developer Java na everis
+## Back-End Developer Java
 
 ### Sou estudante de sistemas de informação
 
