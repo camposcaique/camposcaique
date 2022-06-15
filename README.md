@@ -1,6 +1,18 @@
-## Back-End Developer Java
 
-### Sou estudante de Análise e Desenvolvimento de Sistemas
+# Olá, eu sou o Caique Campos! 👋
 
-*Sou criativo auto motivado e fascinado por tecnologia. Desde que tive o primeiro contato com programação. Estou sempre em busca de conhecimentos que me possibilitem expandir minhas áreas de conhecimento. Consigo me adaptar com facilidade e disposto sempre de conhecer o novo. Amo desafios que me possibilita ajudar as pessoas e ver o sorriso delas no final de cada projeto realizado isso é muito gratificante*
-<br/><br/><br/>
+
+## 🚀 Sobre mim
+Sou uma pessoa apaixonada por tecnologia, dedicada e com vontade de aprender sempre mais.
+Tenho conhecimento autodidata de 1 ano em Java, realizando pequenos projetos e em parelelo com a faculdade, vou me consolidando como profissional.
+Estou em busca de uma oportunidade para conseguir me desenvolver ainda mais como desenvolvedor.
+
+
+
+## 🔗 Links
+[![portfolio](https://img.shields.io/badge/my_portfolio-000?style=for-the-badge&logo=ko-fi&logoColor=white)]()
+[![linkedin](https://img.shields.io/badge/linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/caique-campos-128033180/)
+
+## 🛠 Habilidades
+Javascript, HTML, CSS...
+
