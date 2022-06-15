@@ -14,5 +14,5 @@ Estou em busca de uma oportunidade para conseguir me desenvolver ainda mais como
 [![linkedin](https://img.shields.io/badge/linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/caique-campos-128033180/)
 
 ## 🛠 Habilidades
-Javascript, HTML, CSS...
+Javascript, HTML, CSS, Java.
 
