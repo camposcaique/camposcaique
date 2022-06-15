@@ -5,7 +5,7 @@
 ## 🚀 Sobre mim
 Sou uma pessoa apaixonada por tecnologia, dedicada e com vontade de aprender sempre mais.
 Tenho conhecimento autodidata de 1 ano em Java, realizando pequenos projetos e em parelelo com a faculdade, vou me consolidando como profissional.
-Estou em busca de uma oportunidade para conseguir me desenvolver ainda mais como desenvolvedor.
+Estou em busca de uma oportunidade como Desenvolvedor Jr. para conseguir aprimorar ainda mais meus conhecimentos ainda mais como desenvolvedor.
 
 
 
