@@ -4,8 +4,8 @@
 
 ## 🚀 Sobre mim
 Sou uma pessoa apaixonada por tecnologia, dedicada e com vontade de aprender sempre mais.
-Tenho conhecimento autodidata de 1 ano em Java, realizando pequenos projetos e em parelelo com a faculdade, vou me consolidando como profissional.
-Estou em busca de uma oportunidade como Desenvolvedor Jr. para conseguir aprimorar ainda mais meus conhecimentos.
+Tenho conhecimento autodidata de 1 ano em front end, focando em HTML, CSS e JAVASCRIPT realizando pequenos projetos e em parelelo com a faculdade, vou me consolidando como profissional.
+Estou em busca de uma oportunidade como Desenvolvedor Front End. para conseguir aprimorar ainda mais meus conhecimentos e melhorar ainda mais.
 
 
 
