@@ -5,7 +5,7 @@
 ## 🚀 Sobre mim
 Sou uma pessoa apaixonada por tecnologia, dedicada e com vontade de aprender sempre mais.
 Tenho conhecimento autodidata de 1 ano em front end, focando em HTML, CSS e JAVASCRIPT realizando pequenos projetos e em parelelo com a faculdade, vou me consolidando como profissional.
-Hoje depois de algum tempo estudando front end, passei a me dedicar mais no back end e me encontrei na profissão após estudar Java e Spring Boot.
+Hoje depois de algum tempo estudando front end, passei a me dedicar mais no back end e me encontrei na profissão após estudar Python, Java Spring Boot.
 Estou em busca de uma oportunidade como Desenvolvedor Java, para conseguir aprimorar ainda mais meus conhecimentos e melhorar ainda mais.
 
 
@@ -23,5 +23,5 @@ Estou em busca de uma oportunidade como Desenvolvedor Java, para conseguir aprim
 ) /  camppos.caique@gmail.com
 
 ## 🛠 Habilidades
-Javascript, HTML, CSS, Java.
+Python, Javascript, HTML, CSS, Java.
 
